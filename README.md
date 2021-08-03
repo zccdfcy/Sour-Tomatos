@@ -1,4 +1,4 @@
-# Sour-Tomatos
+# Sour-Tomatos　: 　Full-Stack Node.js Service for Review Aggregation
 
 https://tomatos.zccdfcy.com/
 
