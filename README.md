@@ -1,4 +1,7 @@
-# Sour-Tomatos　: 　Full-Stack Node.js Service for Review Aggregation
+# Sour-Tomatos: Full-Stack Node.js Service for Review Aggregation
+
+![Project Demo  Sour Tomatos - YouTube - Google Chrome 2021-08-09 17-22-34 00_00_01-00_01_29](https://user-images.githubusercontent.com/55950547/128802940-7008b483-6134-4ed9-9d26-2650005a9023.gif)
+
 
 https://tomatos.zccdfcy.com/
 
